@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RecyclerDemoB2</string>
+    <string name="createAccount">crée un compte</string>
+    <string name="update">mettre à jour</string>
+    <string name="listOfAccounts">liste des comptes</string>
+    <string name="delete">supprimer</string>
+    <string name="serviceName">nom du service</string>
+    <string name="mail">mail</string>
+    <string name="addAccount">ajouter un compte</string>
+    <string name="username">nom de compte</string>
+    <string name="password">mot de passe</string>
+</resources>
